@@ -1,0 +1,6 @@
+- no xamp na parte do sql clicar em admin para abrir o phpMyAdmin
+- criamos a tabela sql usuario com nome e senha
+
+- npm init -y para criar o package.json
+
+- npm install express cors mysql2 body-parser para instalar os pacores necessarios que no caso é o express,cors e mysql2 body-parser
